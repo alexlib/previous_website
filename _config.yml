@@ -7,3 +7,4 @@ permalink: /:year/:month/:day/:title
 paginate: 10
 title: Alex Liberzon
 baseurl: /~alexlib/
+url: http:/www.eng.tau.ac.il/
