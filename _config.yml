@@ -5,7 +5,5 @@ markdown: kramdown
 pygments: true
 permalink: /:year/:month/:day/:title
 paginate: 10
-exclude: ["Rakefile", "LICENSE.txt", "README.md", "CNAME"]
 title: Alex Liberzon
-url: http://alexlib.github.com
-github_user: alexlib
+baseurl: /~alexlib/
