@@ -4,7 +4,7 @@
  <link rel='stylesheet' href='http://publicationslist.org/embed.css'>
  
  <div id='publistdiv' class='publist'>Loading publications...</div>
-  <script src='http://publicationslist.org/data/alexlib/publist.js'></script>
+  <script src='http://publicationslist.org/data/A_Liberzon/publist.js'></script>
   <script src='http://publicationslist.org/embed.js'></script>
 </body>
 </html>
