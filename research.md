@@ -13,9 +13,10 @@ scalar (heat, temperature, concentration) dispersion in turbulent flows, and oth
 turbulent flows in Eulerian and Lagrangian framework.
 
 ### Current research projects
-1. Stratified turbulent flows: 
-   * stratified patch
-   * accelerating airfoil
+1. Stratified turbulent flows:
+   * Proper orthogonal decomposition (POD) of stratified wakes  
+   * dispersion of a stratified patch
+   * flow in the wake of an accelerating hydrofoil
 2. Turbulent flows with dilute polymers
 3. Resuspension of particulate materials
 4. Fluid-structure interaction of flexible plates
@@ -23,8 +24,11 @@ turbulent flows in Eulerian and Lagrangian framework.
    * flexible blade rheometer
 5. Bio-medical flows: 
    * optical flow for the LV
-   * hydraulic modeling of the coronary tree
+   * hydraulic modeling of a coronary tree
 4. Lagrangian particle tracking velocimetry
+   * real time image processing on FPGA
+   * single camera four-view image spitter
+   * open source particle tracking velocimetry
 
 ### Research projects on the [laboratory website](http://www.eng.tau.ac.il/turbulencelab)
 
