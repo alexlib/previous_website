@@ -21,7 +21,7 @@ E-mail: [alexlib@eng.tau.ac.il](mailto:alexlib@eng.tau.ac.il)
 
 #### Open Source Software
 * [Open Source Particle Image Velocimetry](http://www.openpiv.net)
-* [Open Source 3D Particle Tracking Velocimetry](http://3dptv.github.com)
+* [Open Source Particle Tracking Velocimetry](http://www.openptv.net)
 * [Tel Aviv Ph.D. or M.Sc. Thesis Template for LyX (www.lyx.org) or LaTeX (www.latex.org)](http://github.com/alexlib/)
 
 
