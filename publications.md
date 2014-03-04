@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Publications
+group: navigation
 ---
 Loading from Mendeley …. (if it's too long, press [here](publications_copy.html))
 

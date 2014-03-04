@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Alex Liberzon
+title: Curriculum Vitae
+group: navigation
 ---
 
-### EDUCATION
+## EDUCATION
 
 1996, 1999 - B.Sc., M.Sc., Agricultural Engineering
     Technion  - Israel Institute of Technology, Haifa, Israel
@@ -26,7 +27,7 @@ Institute of Environmental Engineering
 ETH Zurich
 Visiting Professor
 
-### GRANTS
+## GRANTS
 
 2012 - 2015:
 GIF "Effect of dilute polymers on turbulent entrainment" in collaboration with Prof. Bettina Frohnapfel, KIT, Germany
@@ -46,7 +47,7 @@ The National Park Authority, the Ministry of Environmental Protection, “Electr
 2008-2012:
 Israeli Science Foundation personal grant   “Lagrangian study of two-phase turbulent flows”, P.I. Alexander Liberzon
 
-### MEMBERSHIP IN PROFESSIONAL SOCIETIES
+## MEMBERSHIP IN PROFESSIONAL SOCIETIES
 2008- Americal Physical Society (APS)
 2003- European Mechanics Society (EUROMECH)
 2003- European Research Community of Flow, Turbulence and Combustion (ERCOFTAC)

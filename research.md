@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: Research
+group: navigation
 ---
 
-### Research interests
+## Research interests
 
 * The major research interests are related to *turbulent flows* in natural and 
 industrial applications. 
@@ -12,7 +13,7 @@ scalar (heat, temperature, concentration) dispersion in turbulent flows, and oth
 * We develop unique *experimental methods* to measure velocity and velocity derivatives of 
 turbulent flows in Eulerian and Lagrangian framework.
 
-### Research projects
+## Research projects
 1. Stratified turbulent flows:
    * Proper orthogonal decomposition (POD) of stratified wakes  
    * dispersion of a stratified patch
@@ -36,6 +37,6 @@ turbulent flows in Eulerian and Lagrangian framework.
    * periodic and aperiodic flows in a PC case
    * unsteady airflow cooling of CPU heat sink
 
-### Research projects on the [laboratory website](http://www.eng.tau.ac.il/turbulencelab)
+## Research projects on the [laboratory website](http://www.eng.tau.ac.il/turbulencelab)
 
 
