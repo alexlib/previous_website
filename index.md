@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Welcome to Alex Liberzon site
+title: Alex Liberzon
 ---
 {% include JB/setup %}
 
-## Alex Liberzon
-### Associate Professor
-<html> <img src = "images/alex.jpg" align = "right"> </html>
 
----------
-
+<img style="float: left; margin: 0 10px 10px 10px" src = "images/alex.jpg" />
+### Associate Professor, Head of the
 ### [Turbulence Structure Laboratory](http://www.eng.tau.ac.il/turbulencelab)
 
-----------
+<p>
+-------------
 
+## Address
 Wolfson Building, #316<br> 
 School of Mechanical Engineering<br>
 Faculty of Engineering<br>
@@ -27,7 +26,7 @@ E-mail: [alexlib@eng.tau.ac.il](mailto:alexlib@eng.tau.ac.il)
 ## Open Source Software
 * [Open Source Particle Image Velocimetry](http://www.openpiv.net)
 * [Open Source Particle Tracking Velocimetry](http://www.openptv.net)
-* [Tel Aviv Ph.D. or M.Sc. Thesis Template for LyX (www.lyx.org) or LaTeX (www.latex.org)](http://github.com/alexlib/)
+* [Graduate thesis Lyx/LaTeX templates, Tel Aviv University](http://github.com/alexlib/)
 
 
 * [Personal blog](http://alexl.wordpress.com)
