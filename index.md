@@ -6,7 +6,7 @@ title: Welcome to Alex Liberzon site
 
 ## Alex Liberzon
 ### Associate Professor
-<html> <img src = "images/alex.png" align = "right"> </html>
+<html> <img src = "images/alex.jpg" align = "right"> </html>
 
 ---------
 
