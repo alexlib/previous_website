@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Alex Liberzon
-tagline: Site Tagline
+tagline: 
 author :
   name : Alex Liberzon
   email : alexlib@eng.tau.ac.il
@@ -24,7 +24,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://alexlib.github.io
+production_url : http://www.eng.tau.ac.il/~alexlib
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -35,7 +35,7 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  # CNAME (http://yourcustomdomain.com)
+  # CNAME : http://www.eng.tau.ac.il/~alexlib
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
@@ -63,7 +63,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : http://www.eng.tau.ac.il/~alexlib/assets
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
