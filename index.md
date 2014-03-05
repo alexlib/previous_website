@@ -9,7 +9,8 @@ title: Alex Liberzon
 ### Associate Professor, Head of the
 ### [Turbulence Structure Laboratory](http://www.eng.tau.ac.il/turbulencelab)
 
-<p>
+<br>
+<br>
 -------------
 
 ## Address
