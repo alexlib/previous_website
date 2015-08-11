@@ -35,6 +35,6 @@ turbulent flows in Eulerian and Lagrangian framework.
    * periodic and aperiodic flows in a PC case
    * unsteady airflow cooling of CPU heat sink
 
-### More details on the [laboratory website](http://www.eng.tau.ac.il/turbulencelab)
+### More details on the [laboratory website](http://www.eng.tau.ac.il/~tsl)
 
 
